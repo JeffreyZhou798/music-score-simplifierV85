@@ -13,6 +13,10 @@ A pure frontend web application that provides graded simplification of musical s
 - **Export**: Download simplified scores in .mxl or .musicxml format
 - **Anacrusis Detection**: Automatic pickup measure detection and preservation
 - **Structure Protection**: Maintains square/non-square phrase structures
+  
+## Live Demo
+
+**Try it now**: https://music-score-simplifier-v85.vercel.app/
 
 ## Recent Updates (v8.1)
 
